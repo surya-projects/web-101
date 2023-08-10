@@ -1,0 +1,93 @@
+body{
+    background-color : whitesmoke;
+    color : black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align : center;
+    top: -100px;
+    margin: 0px;
+}
+
+.container-fluid{
+    background-color: whitesmoke;
+    font-size: large;
+}
+.twitter-image{
+    margin: 200px 0px 0px 0px;
+}
+h1{
+    font-size : 64px;
+}
+.main-content{
+    margin : 159 100 200;
+}
+.google-image{
+    width : 30px;
+    height : 30px;
+    background-color : whitesmoke;
+}
+
+.main-frame{
+    left: 30%;
+}
+
+h3 { 
+    margin-bottom : 50px;
+}
+
+.vl {
+    border-left: 6px solid grey;
+    height: 300px;
+    position: relative;
+    left: 45%;
+    width: 105px;
+    margin-left: -3px;
+    top: -340px;
+  }
+
+.sign-in{
+    left:50%;
+    position : relative;
+    top : -640px;
+    margin-right: 700px;
+}
+
+.apple-image{
+    width: 55px;
+    height: 30px;
+    left : -10px
+}
+
+h1{
+    font-size: xx-large;
+}
+
+input{
+    width: 30px;
+}
+
+.btn{
+    border : 1px solid grey
+}
+
+.apple-btn,.google-btn{
+    border : 1px solid grey;
+    border-radius : 10px;
+    background-color: white;
+    box-shadow: 10;
+}
+
+.input-group{
+    width : 100px
+}
+
+.input-box{
+    width: 30%;
+    height: 40px;
+    border-radius: 7px;
+    background-color: whitesmoke;
+    padding-left: 4px;
+}
+
+.credits{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
